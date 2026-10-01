@@ -14,7 +14,7 @@
 
 
 # Important Disclosure
-This project consists in manage the food that goes from any supermarket to my kitchen. The output of this system, will give me the meal prep of the week that I need!
+This project consists in manage the food that goes from any supermarket to my kitchen. The output of this system, will give me the meal prep of each week!
 
 Currently under construction—stay tuned! 🚧
 
